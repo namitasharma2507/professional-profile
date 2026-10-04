@@ -2,7 +2,7 @@
 
 ## Short-Term Goal
 
-To strengthen my cybersecurity, programming, Linux, networking, cloud computing and problem-solving skills and gain practical experience through projects, open-source contributions and internships.
+To strengthen my cybersecurity, programming, Linux, networking, cloud computing and problem-solving skills and gain practical experience through projects, open-source contributions, internships and certifications.
 
 ## Long-Term Goal
 
